@@ -1,5 +1,3 @@
-// const GIPHY_KEY = "E702g6ZOEJYPlNfPvKhHnsa5VvfGfjSQ";
-
 import { Giphy } from "../types/Giphy";
 
 export const fetchGifs = async (category: string, apiKey: string) => {
